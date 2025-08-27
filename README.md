@@ -31,15 +31,3 @@
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c3bzV2OXYza2FleTdxMDJhb3F2Y2c5Y2c5OGN1N2E0Zmd5M285cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ewHxe2RGr6OmQTLNL/giphy.gif"  />
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-deschamps-ba4a2b312/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/useprompture?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-  </a>
-</div>
-
-###
