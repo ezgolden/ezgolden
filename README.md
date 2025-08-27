@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm a tech research, keep learning all time for my business and projects, focus in LLMs and Data</p>
+<p align="left">I'm a tech research, keep learning all time for my business and projects, focus in LLMs, Data development and automation of tasks</p>
 
 ###
 
