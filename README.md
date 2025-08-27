@@ -25,6 +25,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-png-download-1175208.png?f=webp" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/2415/PNG/512/css_plain_logo_icon_146573.png" height="40" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height="40" alt="Jupyter logo" />
 </div>
 
 ###
