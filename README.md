@@ -27,6 +27,8 @@
   <img src="https://images.icon-icons.com/2415/PNG/512/css_plain_logo_icon_146573.png" height="40" alt="CSS logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height="40" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="40" alt="N8N logo" />
 </div>
 
 ###
