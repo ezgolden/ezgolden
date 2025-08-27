@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Check out instagram my agency and my profile on linkedin<br>------------------------------------------<br>Connecte my community about IA and news in discord!</p>
+<p align="left">Check out instagram my agency and my profile on linkedin<br><br>Connecte my community about IA and news in discord!</p>
 
 ###
 
