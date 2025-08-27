@@ -17,19 +17,19 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-png-download-1175208.png?f=webp" height="40" alt="HTML logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://images.icon-icons.com/2415/PNG/512/css_plain_logo_icon_146573.png" height="40" alt="CSS logo" />
-  <img width="12" />
+  <img width="14" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height="40" alt="Jupyter logo" />
-  <img width="12" />
+  <img width="14" />
   <img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="40" alt="N8N logo" />
-  <img width="12" />
+  <img width="14" />
   <img src="https://supabase.com/_next/image?url=%2Fimages%2Fcompany%2Fcommunity%2Fsupabase.png&w=3840&q=75" height="40" alt="superbase logo" />
 </div>
 
