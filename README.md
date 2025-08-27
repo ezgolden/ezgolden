@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code and use these tools</h2>
 
 ###
 
@@ -29,6 +29,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height="40" alt="Jupyter logo" />
   <img width="12" />
   <img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="40" alt="N8N logo" />
+  <img width="12" />
+  <img src="https://supabase.com/_next/image?url=%2Fimages%2Fcompany%2Fcommunity%2Fsupabase.png&w=3840&q=75" height="40" alt="superbase logo" />
 </div>
 
 ###
