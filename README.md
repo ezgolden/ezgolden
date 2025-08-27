@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-    <img src="https://img.icons8.com/color/512w/html-5--v1.png" height="40" alt="HTML logo"  />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-png-download-1175208.png?f=webp" height="40" alt="HTML logo"  />
 </div>
 
 ###
