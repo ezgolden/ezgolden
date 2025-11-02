@@ -31,6 +31,7 @@
   <img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="40" alt="N8N logo" />
   <img width="14" />
   <img src="https://supabase.com/_next/image?url=%2Fimages%2Fcompany%2Fcommunity%2Fsupabase.png&w=3840&q=75" height="40" alt="superbase logo" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="40" alt="docker logo" />
 </div>
 
 ###
