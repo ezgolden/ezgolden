@@ -51,7 +51,7 @@ class EzGolden:
 
 <div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgolden&theme=tokyonight&hide_border=true" />
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezgolden&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=contribution+graph&title_color=00d9ff" />
+  <img width="60" src="https://github-readme-activity-graph.vercel.app/graph?username=ezgolden&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=contribution+graph&title_color=00d9ff" />
     
 </div>
 
