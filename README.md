@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c3bzV2OXYza2FleTdxMDJhb3F2Y2c5Y2c5OGN1N2E0Zmd5M285cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c3bzV2OXYza2FleTdxMDJhb3F2Y2c5Y2c5OGN1N2E0Zmd5M285cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
 
 ```python
 class EzGolden:
@@ -58,7 +58,7 @@ class EzGolden:
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgolden&theme=tokyonight&hide_border=true" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="86%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgolden&theme=tokyonight&hide_border=true" />
 
 </div>
