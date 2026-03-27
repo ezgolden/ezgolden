@@ -51,14 +51,16 @@ class EzGolden:
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezgolden&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=contribution+graph&title_color=00d9ff" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgolden&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ezgolden&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=contribution+graph&title_color=00d9ff" />
+    
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="86%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgolden&theme=tokyonight&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+ 
 
 </div>
