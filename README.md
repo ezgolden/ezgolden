@@ -58,11 +58,8 @@ class EzGolden:
 
 <div align="center">
 
-`"ideas are cheap. execution is everything."`
 
-![Profile Views](https://komarev.com/ghpvc/?username=ezgolden&color=00d9ff&style=flat-square&label=Profile+Views)
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+ <img height="160" src="https://github-readme-stats.vercel.app/api?username=ezgolden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="86%"/>
 
 </div>
