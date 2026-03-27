@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&height=45&lines=entrepreneur+%2B+tech+researcher;building+real+things+with+real+tools;LLMs+%7C+Data+%7C+Automation)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Tech+Researcher+%26+Builder+%F0%9F%94%AC;LLMs+%7C+Data+%7C+Automation+%E2%9A%99%EF%B8%8F;Turning+curiosity+into+code+since+day+1+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -60,7 +59,8 @@ class EzGolden:
 
 `"ideas are cheap. execution is everything."`
 
-<img src="https://komarev.com/ghpvc/?username=ezgolden&color=00d9ff&style=flat-square&label=profile+views" />
+![Profile Views](https://komarev.com/ghpvc/?username=ezgolden&color=00d9ff&style=flat-square&label=Profile+Views)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
