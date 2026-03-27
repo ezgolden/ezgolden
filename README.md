@@ -1,9 +1,18 @@
 <div align="center">
 
 ```
-
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██████╗ ███████╗███████╗███████╗ █████╗ ██████╗  ██████╗  ║
+║   ██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝  ║
+║   ██████╔╝█████╗  ███████╗█████╗  ███████║██████╔╝██║       ║
+║   ██╔══██╗██╔══╝  ╚════██║██╔══╝  ██╔══██║██╔══██╗██║       ║
+║   ██║  ██║███████╗███████║███████╗██║  ██║██║  ██║╚██████╗  ║
+║   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+
 </div>
 
 <div align="center">
@@ -80,3 +89,31 @@ drwxr-xr-x  No-code / low-code tools
 
 ---
 
+## 🧠 Current Focus
+
+```mermaid
+mindmap
+  root((EzGolden))
+    LLMs
+      Prompt Engineering
+      Agent Pipelines
+      RAG Systems
+    Data
+      ETL Automation
+      Business Intelligence
+      Supabase
+    Automation
+      n8n Workflows
+      API Integrations
+      Docker Deploys
+```
+
+---
+
+<div align="center">
+
+### `"The best code is the one that solves real problems."`
+
+![Profile Views](https://komarev.com/ghpvc/?username=ezgolden&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>
