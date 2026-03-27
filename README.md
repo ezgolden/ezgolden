@@ -46,8 +46,7 @@ class EzGolden:
 ## `$ cat stats.log`
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ezgolden&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&title_color=00d9ff&icon_color=00d9ff" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezgolden&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&title_color=00d9ff" />
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 </div>
 
 <div align="center">
